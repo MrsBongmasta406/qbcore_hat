@@ -1,8 +1,8 @@
-fx_version ‘cerulean’
-game ‘gta5’
-author ‘Mrs.Bong’
-description ‘QBCore Hat Made By Kakarot’
-version ‘4.2.0’
+fx_version 'cerulean'
+game 'gta5'
+author 'Mrs.Bong'
+description 'QBCore Hat Made By Kakarot'
+version '4.2.0'
 
 files {
     'mp_m_freemode_01_qbcore.meta'
